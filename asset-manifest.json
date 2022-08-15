@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.947aa046.css",
-    "main.js": "/static/js/main.08d7a90d.js",
-    "index.html": "/index.html",
-    "main.947aa046.css.map": "/static/css/main.947aa046.css.map",
-    "main.08d7a90d.js.map": "/static/js/main.08d7a90d.js.map"
+    "main.css": "/wheather_foras_api/static/css/main.947aa046.css",
+    "main.js": "/wheather_foras_api/static/js/main.08d7a90d.js",
+    "index.html": "/wheather_foras_api/index.html",
+    "main.947aa046.css.map": "/wheather_foras_api/static/css/main.947aa046.css.map",
+    "main.08d7a90d.js.map": "/wheather_foras_api/static/js/main.08d7a90d.js.map"
   },
   "entrypoints": [
     "static/css/main.947aa046.css",
