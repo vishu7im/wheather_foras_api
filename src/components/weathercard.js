@@ -1,15 +1,18 @@
 import React, { useEffect } from "react";
 
-const Weathercard = ({
-  temp,
-  humidity,
-  pressure,
-  weathermood,
-  name,
-  speed,
-  country,
-  sunset,
-}) => {
+const Weathercard = ({temps}) => {
+
+  let {
+    temp,
+    humidity,
+    pressure,
+    weathermood,
+    name,
+    speed,
+    country,
+    sunset,
+  }= temps
+
   const [weatherState, setWeatheState] = React.useState("");
 
   useEffect(() => {

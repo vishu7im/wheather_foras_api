@@ -2,7 +2,7 @@
   "name": "count",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vishu7im.github.io",
+  "homepage": "https://vishu7im.github.io/wheather_foras_api",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
